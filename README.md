@@ -1,5 +1,7 @@
 # Animal Pose Estimation Using Higher HRNet
 
+<img src="figures/Results.png"/><br>
+
 This project is based on the Higher HRNet model proposed by Bowen Cheng, Bin Xiao, Jingdong Wang, Honghui Shi, Thomas S. Huang and Lei Zhang
 Original Higher HRNet paper -> https://arxiv.org/abs/1908.10357
 
